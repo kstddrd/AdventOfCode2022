@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode2022.Day1
+namespace AdventOfCode2022.Week1.Day1
 {
-    internal class Day1Code
+    
+    public class Day1Code
     {
+        public static string codetest => "cow";
     }
 }
